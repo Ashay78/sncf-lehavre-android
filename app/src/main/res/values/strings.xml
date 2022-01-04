@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sncf</string>
+    <string name="depart">Départs</string>
+    <string name="end">Arrivées</string>
+</resources>
