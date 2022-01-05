@@ -1,4 +1,4 @@
-package com.gcousin.sncf;
+package com.gcousin_souffes.sncf;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,11 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+/**
+ * Project create by
+ * Leon Souffes: sl172427
+ * Gabriel Cousin: cg170357
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override

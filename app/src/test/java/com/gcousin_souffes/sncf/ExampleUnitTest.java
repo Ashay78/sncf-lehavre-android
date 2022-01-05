@@ -1,4 +1,4 @@
-package com.gcousin.sncf;
+package com.gcousin_souffes.sncf;
 
 import org.junit.Test;
 
